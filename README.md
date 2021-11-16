@@ -1,7 +1,17 @@
-### Hi there 👋
+# Olá, pessoas 👋
 
+Aqui é onde crio e quebro coisas =)
 
-#### Onde me encontrar?
-Aqui no github ou pode me encontrar no linekdin 
+## Onde me encontrar?
 
-![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Rosas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eufelipe)
+```bash
+npx eufelipe
+```
+
+Aqui no github ou pode me encontrar no linekdin
+
+<a href="https://www.linkedin.com/in/eufelipe/" target="_blank"><img src="https://img.shields.io/badge/-Felipe%20Rosas-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
+## Projetos open source
+
+- [log-finance](https://github.com/eufelipe/log-finance-react-native) -> App para log de ganhos e gastos diários feito com react-native com conceitos de offline first.
