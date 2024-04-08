@@ -1,6 +1,6 @@
 # Olá, pessoas 👋
 
-Aqui é onde crio e quebro coisas =)
+Bem-vindo ao meu caos organizado, um commit de cada vez.
 
 ## Onde me encontrar?
 
